@@ -126,7 +126,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:rogers.dustin@gmail.com
+      url: mailto:rogers.dustin@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
