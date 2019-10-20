@@ -15,8 +15,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 layout: splash      
-header:
-  image_overlay: /assets/images/Header.jpg
+
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -99,8 +98,8 @@ analytics:
 author:
   name             : "Dustin Rogers"
   avatar           : "/assets/images/Online Resume.jpeg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Looking for creative solutions."
+  location         : "Portland, Oregon"
   email            :
   links:
     - label: "Email"
@@ -117,7 +116,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://dustinrogers.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -144,6 +143,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+header:
+  image_overlay: /assets/images/Header.jpg
 
 # Reading Files
 include:
