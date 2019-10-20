@@ -142,7 +142,7 @@ footer:
       # url:
 
 header:
-  image_overlay: /assets/images/Header.jpg
+  image_overlay: "/assets/images/Header.jpg"
 
 # Reading Files
 include:
