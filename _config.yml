@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Dustin Rogers"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Online Resume.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto: rogers.dustin@gmail.com
+      url: "mailto: rogers.dustin@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
