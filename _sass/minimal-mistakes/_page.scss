@@ -493,28 +493,26 @@
   text-transform: uppercase;
 }
 
+
 /*
    Wide Pages
    ========================================================================== */
 
-.wide {
-  .page {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
+.wide .sidebar__right {
+  margin-bottom: 1em;
+  @include breakpoint($large) {
+    position: initial;
+    top: initial;
+    right: initial;
+    width: initial;
+    margin-right: initial;
+    padding-left: initial;
+    z-index: initial;
   }
 
-  .page__related {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
+  @include breakpoint($x-large) {
+    width: initial;
+    margin-right: initial;
   }
 }
+
