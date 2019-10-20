@@ -281,5 +281,6 @@ defaults:
       share: true
       related: true
       
+layout: splash      
 header:
-  image: /assets/images/Header.jpg
+  image_overlay: /assets/images/Header.jpg
