@@ -1,9 +1,9 @@
-layout                   : splash
 ---
 header                   :
   image_overlay          : "/assets/images/Header.jpg"
 ---
 
+layout                   : splash
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
