@@ -1,7 +1,3 @@
-header                   :
-  image_overlay          : "/assets/images/Header.jpg"
-
-
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
@@ -278,7 +274,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: home
+      layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: # true
